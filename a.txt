@@ -1,5 +1,10 @@
 ﻿asdasd
 nihao
 中文
+<<<<<<< HEAD
 branch1
 revert
+=======
+gfgf
+最终
+>>>>>>> parent of 4f08e81... Revert "vg"
